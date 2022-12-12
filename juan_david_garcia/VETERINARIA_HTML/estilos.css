@@ -1,0 +1,109 @@
+header{
+    border: 1px solid red;
+    height: 171px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+nav{
+    border: 1px solid blue;
+    height: 60px;
+    background-color: #1C4A48;
+    border-radius: 0px 0px 6px 6px;
+}
+
+main{
+    border: 1px solid black;
+    width: 823px;
+    height: 650px;
+    margin: auto;
+    border-radius: 10px 10px 0px 0px;
+}
+
+section{
+    border: 1px solid green;
+    width: 475px;
+    display: inline-block;
+    float: left;
+}
+
+article{
+    border: 1px solid brown;
+    height: 160px;
+    margin-top: 15px;
+    background-color: #f8ed72ef;
+    border-radius: 10px 10px 0px 0px;
+}
+
+aside{
+    border: 1px solid springgreen;
+    height: 338px;
+    width: 299px;
+    display: inline-block;
+    margin-left: 45px;
+    border-radius: 10px 10px 10px 10px;
+    background-color: #4a6e6e;
+    margin-top: 17px;
+}
+
+ul li{
+    display: inline-block;
+    font-size: 22px;
+    color: white;
+    margin-left: 60px;
+    padding: 5px;
+    height: 20px;
+}
+
+footer{
+    border: 1px solid teal;
+    height: 43px;
+}
+
+
+p{
+    display: inline-block;
+    margin-left: 15px;
+    width: 280px;
+}
+
+h3{
+    margin-top: 25px;
+    display: inline-block;
+}
+
+.perro{
+    width: 90px;
+    border: 2px solid;
+    border-radius: 10px 10px 10px 10px;
+    float: right;
+    margin-top: -35px;
+    margin-right: 20px;
+}
+
+.perros{
+    width: 90px;
+    border: 2px solid;
+    border-radius: 10px 10px 10px 10px;
+    float: right;
+    margin-top: -35px;
+    margin-right: 20px;
+    height: 117px;
+}
+
+aside h3 {
+    background-color: black;
+    margin-top: auto    ;
+    width: 300px;
+    border-radius: 10px 10px 10px 10px;
+    height: 40px;
+    color: white;
+}
+footer{
+    background-color: #1C4A48;
+    border-radius: 0px 0px 10px 10px;
+    height: 56px;
+}
+#text{
+   float: right;
+   margin-right: 170px;
+}
